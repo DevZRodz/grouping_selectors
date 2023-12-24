@@ -1,1 +1,2 @@
-# grouping_selectors
+Esta práctica trata de añadir múltiples tipos de clases o modificaciones hacia algo, por ejemplo, el texto, pero a la vez manteniendo su clase o modificación única también.<br>
+This practice is about adding multiple types of classes or modifications to something, for example, text, but at the same time keeping its class or modification unique as well.
